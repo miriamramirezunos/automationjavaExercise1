@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="243396" started-at="2020-02-29T12:13:46 CST" finished-at="2020-02-29T12:17:50 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="243396" started-at="2020-02-29T12:13:46 CST" finished-at="2020-02-29T12:17:50 CST">
+      <class name="MyPackage.Ex1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MyPackage.Ex1@1f36e637]" name="beforeTest" is-config="true" duration-ms="6804" started-at="2020-02-29T12:13:46 CST" finished-at="2020-02-29T12:13:53 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="ExercisesAJava1()[pri:0, instance:MyPackage.Ex1@1f36e637]" name="ExercisesAJava1" duration-ms="235830" started-at="2020-02-29T12:13:53 CST" finished-at="2020-02-29T12:17:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExercisesAJava1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:MyPackage.Ex1@1f36e637]" name="afterTest" is-config="true" duration-ms="703" started-at="2020-02-29T12:17:49 CST" finished-at="2020-02-29T12:17:50 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- MyPackage.Ex1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
